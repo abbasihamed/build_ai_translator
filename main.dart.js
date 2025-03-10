@@ -6921,7 +6921,7 @@ var $async$all=A.L(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:if($.Y==null)A.anD()
 $.Y.toString
 s=2
-return A.T($.apg().yp(".env"),$async$all)
+return A.T($.apg().yp("assets/.env"),$async$all)
 case 2:if($.Y==null)A.anD()
 q=$.Y
 q.toString
